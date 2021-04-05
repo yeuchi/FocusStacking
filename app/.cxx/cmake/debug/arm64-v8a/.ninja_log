@@ -1,0 +1,9 @@
+# ninja log v5
+0	600	1617580752	CMakeFiles/native-lib.dir/native-lib.cpp.o	630ef8ec0e5f689a
+600	707	1617580753	/Users/ctyeung/Documents/GitHub/Android/FocusStacking/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	c877f4b22250e37
+0	35	1617584380	build.ninja	e7958d3521f2000a
+0	6	0	clean	e5725e59067cfa2f
+0	37	1617584383	build.ninja	e7958d3521f2000a
+2	60	1617584383	CMakeFiles/native-lib.dir/FocusStack.cpp.o	3459bc8962ac0d37
+2	683	1617584384	CMakeFiles/native-lib.dir/native-lib.cpp.o	630ef8ec0e5f689a
+684	819	1617584384	/Users/ctyeung/Documents/GitHub/Android/FocusStacking/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	156a9146e1fb9cbf

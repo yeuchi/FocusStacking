@@ -5,9 +5,9 @@
     "environmentVariables": []
   },
   "cmake": {
-    "cmakeArtifactsBaseFolder": "/Users/ctyeung/Desktop/FocusStack/app/.cxx/cmake/debug/x86",
-    "cmakeServerLogFile": "/Users/ctyeung/Desktop/FocusStack/app/.cxx/cmake/debug/x86/cmake_server_log.txt",
-    "cmakeWrappingBaseFolder": "/Users/ctyeung/Desktop/FocusStack/app/.cxx/cxx/debug/x86",
+    "cmakeArtifactsBaseFolder": "/Users/ctyeung/Documents/GitHub/Android/FocusStacking/app/.cxx/cmake/debug/x86",
+    "cmakeServerLogFile": "/Users/ctyeung/Documents/GitHub/Android/FocusStacking/app/.cxx/cmake/debug/x86/cmake_server_log.txt",
+    "cmakeWrappingBaseFolder": "/Users/ctyeung/Documents/GitHub/Android/FocusStacking/app/.cxx/cxx/debug/x86",
     "effectiveConfiguration": {
       "name": "traditional-android-studio-cmake-environment",
       "description": "Composite reified CMakeSettings configuration",
@@ -15,13 +15,13 @@
       "inheritEnvironments": [
         "ndk"
       ],
-      "buildRoot": "/Users/ctyeung/Desktop/FocusStack/app/.cxx/cmake/debug/x86",
+      "buildRoot": "/Users/ctyeung/Documents/GitHub/Android/FocusStacking/app/.cxx/cmake/debug/x86",
       "cmakeToolchain": "/Users/ctyeung/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
       "cmakeExecutable": "/Users/ctyeung/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake",
       "variables": [
         {
           "name": "CMAKE_FIND_ROOT_PATH",
-          "value": "/Users/ctyeung/Desktop/FocusStack/app/.cxx/cmake/debug/prefab/x86/prefab"
+          "value": "/Users/ctyeung/Documents/GitHub/Android/FocusStacking/app/.cxx/cmake/debug/prefab/x86/prefab"
         },
         {
           "name": "CMAKE_BUILD_TYPE",
@@ -57,7 +57,7 @@
         },
         {
           "name": "CMAKE_LIBRARY_OUTPUT_DIRECTORY",
-          "value": "/Users/ctyeung/Desktop/FocusStack/app/build/intermediates/cmake/debug/obj/x86"
+          "value": "/Users/ctyeung/Documents/GitHub/Android/FocusStacking/app/build/intermediates/cmake/debug/obj/x86"
         },
         {
           "name": "CMAKE_MAKE_PROGRAM",
@@ -74,14 +74,14 @@
       ]
     }
   },
-  "cxxBuildFolder": "/Users/ctyeung/Desktop/FocusStack/app/.cxx/cmake/debug/x86",
+  "cxxBuildFolder": "/Users/ctyeung/Documents/GitHub/Android/FocusStacking/app/.cxx/cmake/debug/x86",
   "info": {
     "abi": "X86",
     "bitness": 32,
     "deprecated": false,
     "default": true
   },
-  "originalCxxBuildFolder": "/Users/ctyeung/Desktop/FocusStack/app/.cxx/cmake/debug/x86",
+  "originalCxxBuildFolder": "/Users/ctyeung/Documents/GitHub/Android/FocusStacking/app/.cxx/cmake/debug/x86",
   "variant": {
     "buildSystemArgumentList": [],
     "buildTargetSet": [],
@@ -100,12 +100,12 @@
         "ninjaExe": "/Users/ctyeung/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja"
       },
       "cmakeToolchainFile": "/Users/ctyeung/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
-      "cxxFolder": "/Users/ctyeung/Desktop/FocusStack/app/.cxx",
+      "cxxFolder": "/Users/ctyeung/Documents/GitHub/Android/FocusStacking/app/.cxx",
       "gradleModulePathName": ":app",
-      "intermediatesFolder": "/Users/ctyeung/Desktop/FocusStack/app/build/intermediates",
-      "makeFile": "/Users/ctyeung/Desktop/FocusStack/app/src/main/cpp/CMakeLists.txt",
-      "moduleBuildFile": "/Users/ctyeung/Desktop/FocusStack/app/build.gradle",
-      "moduleRootFolder": "/Users/ctyeung/Desktop/FocusStack/app",
+      "intermediatesFolder": "/Users/ctyeung/Documents/GitHub/Android/FocusStacking/app/build/intermediates",
+      "makeFile": "/Users/ctyeung/Documents/GitHub/Android/FocusStacking/app/src/main/cpp/CMakeLists.txt",
+      "moduleBuildFile": "/Users/ctyeung/Documents/GitHub/Android/FocusStacking/app/build.gradle",
+      "moduleRootFolder": "/Users/ctyeung/Documents/GitHub/Android/FocusStacking/app",
       "ndkDefaultAbiList": [
         "ARMEABI_V7A",
         "ARM64_V8A",
@@ -169,12 +169,12 @@
       "ndkDefaultStl": "LIBCXX_STATIC",
       "ndkVersion": "21.1.6352462",
       "project": {
-        "compilerSettingsCacheFolder": "/Users/ctyeung/Desktop/FocusStack/.cxx",
-        "cxxFolder": "/Users/ctyeung/Desktop/FocusStack/.cxx",
+        "compilerSettingsCacheFolder": "/Users/ctyeung/Documents/GitHub/Android/FocusStacking/.cxx",
+        "cxxFolder": "/Users/ctyeung/Documents/GitHub/Android/FocusStacking/.cxx",
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
         "isNativeCompilerSettingsCacheEnabled": false,
-        "rootBuildGradleFolder": "/Users/ctyeung/Desktop/FocusStack",
+        "rootBuildGradleFolder": "/Users/ctyeung/Documents/GitHub/Android/FocusStacking",
         "sdkFolder": "/Users/ctyeung/Library/Android/sdk",
         "isPrefabEnabled": false
       },
@@ -191,7 +191,7 @@
         "SYSTEM": {}
       }
     },
-    "objFolder": "/Users/ctyeung/Desktop/FocusStack/app/build/intermediates/cmake/debug/obj",
+    "objFolder": "/Users/ctyeung/Documents/GitHub/Android/FocusStacking/app/build/intermediates/cmake/debug/obj",
     "variantName": "debug",
     "validAbiList": [
       "ARMEABI_V7A",
@@ -199,8 +199,8 @@
       "X86",
       "X86_64"
     ],
-    "prefabDirectory": "/Users/ctyeung/Desktop/FocusStack/app/.cxx/cmake/debug/prefab",
+    "prefabDirectory": "/Users/ctyeung/Documents/GitHub/Android/FocusStacking/app/.cxx/cmake/debug/prefab",
     "prefabPackageDirectoryList": []
   },
-  "prefabFolder": "/Users/ctyeung/Desktop/FocusStack/app/.cxx/cmake/debug/prefab/x86"
+  "prefabFolder": "/Users/ctyeung/Documents/GitHub/Android/FocusStacking/app/.cxx/cmake/debug/prefab/x86"
 }

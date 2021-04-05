@@ -1,3 +1,3 @@
-/Users/ctyeung/Desktop/FocusStack/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
-/Users/ctyeung/Desktop/FocusStack/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
-/Users/ctyeung/Desktop/FocusStack/app/.cxx/cmake/debug/x86/CMakeFiles/native-lib.dir
+/Users/ctyeung/Documents/GitHub/Android/FocusStacking/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
+/Users/ctyeung/Documents/GitHub/Android/FocusStacking/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+/Users/ctyeung/Documents/GitHub/Android/FocusStacking/app/.cxx/cmake/debug/x86/CMakeFiles/native-lib.dir
